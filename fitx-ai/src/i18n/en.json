@@ -1,0 +1,17 @@
+{
+  "app": {
+    "title": "FITX AI"
+  },
+  "navigation": {
+    "home": "Home",
+    "workout": "Workout",
+    "aiCoach": "AI Coach",
+    "nutrition": "Nutrition",
+    "progress": "Progress",
+    "store": "Store"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "startWorkout": "Start Workout"
+  }
+}

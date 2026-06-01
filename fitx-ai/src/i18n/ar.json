@@ -1,0 +1,17 @@
+{
+  "app": {
+    "title": "فيتكس إيه آي"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "workout": "التمارين",
+    "aiCoach": "المدرب الذكي",
+    "nutrition": "التغذية",
+    "progress": "التقدم",
+    "store": "المتجر"
+  },
+  "home": {
+    "welcome": "مرحبا بك",
+    "startWorkout": "ابدأ التمرين"
+  }
+}
